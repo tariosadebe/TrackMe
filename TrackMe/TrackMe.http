@@ -1,0 +1,6 @@
+@TrackMe_HostAddress = http://localhost:5049
+
+GET {{TrackMe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
